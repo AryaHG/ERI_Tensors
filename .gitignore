@@ -1,0 +1,18 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Generated calculation output
+*.jls
+*.out
+*.err
+
+
+# Local placeholders for future development
+/scripts/geometry.jl
+/scripts/hartree_fock.jl
+/scripts/integrals.jl
+/scripts/encoding.jl
+/scripts/operator_entropy.jl
+/experiments/01_h2_smoke_test.jl
