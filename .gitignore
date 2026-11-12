@@ -16,3 +16,7 @@ __MACOSX/
 /scripts/encoding.jl
 /scripts/operator_entropy.jl
 /experiments/01_h2_smoke_test.jl
+/experiments/05_h2o_cluster_compression.jl
+/data/geometries/ch4_h4_ccpvdz.xyz
+/data/geometries/h2.xyz
+/data/geometries/H2O_First_Try_Data.txt
